@@ -1,0 +1,15 @@
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\bin\Debug\net7.0\tech_2.exe
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\bin\Debug\net7.0\tech_2.deps.json
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\bin\Debug\net7.0\tech_2.runtimeconfig.json
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\bin\Debug\net7.0\tech_2.dll
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\bin\Debug\net7.0\tech_2.pdb
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.AssemblyInfo.cs
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.dll
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\refint\tech_2.dll
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.pdb
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\tech_2.genruntimeconfig.cache
+C:\Users\12345\Desktop\Seminar1_C#\tech_2\obj\Debug\net7.0\ref\tech_2.dll
